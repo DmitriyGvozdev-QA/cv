@@ -3,7 +3,7 @@ const button = document.querySelector('button');
 
 /* Тут на кнопку навешиваем обработчик, который ждёт клика и тогда запустит логику */
 button.addEventListener('click', function() {
-	alert('Все-таки нажал...ах эта сладость запретного плода=) Я бы тоже нажал =)')
+	alert('я бы тоже нажал =)')
 })
 
 
